@@ -1,10 +1,6 @@
 # Digital-Clock-and-StopWatch-Timmer
 A multi-function timekeeping app featuring a live digital clock, a precise stopwatch, and a countdown timer develop by using GUI.
-# Digital Clock, Stopwatch & Timer
-
-This is a simple and clean timekeeping application built using [List your main technologies, e.g., HTML, CSS, and JavaScript]. It combines three essential tools into one easy-to-use interface.
-
-This project was built to practice [Mention your goal, e.g., DOM manipulation, state management, UI design, etc.].
+This is a simple and clean timekeeping application built using GUI. It combines three essential tools into one easy-to-use interface.
 
 Digital Clock:
     * Displays the current time live (HH:MM:SS).
@@ -20,4 +16,4 @@ Timer (Countdown):
     * User-input fields to set hours, minutes, and seconds.
     * **Start / Pause:** Begin or pause the countdown.
     * **Reset:** Clears the set time and stops the countdown.
-    * [Optional: Add any other features, like "Plays an alert sound when the timer reaches zero."]
+Tools Used - Java (GUI)- Graphical User Interface
